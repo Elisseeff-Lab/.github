@@ -2,7 +2,7 @@
 
 #### Elisseeff Lab
 
-Dr. Jennifer Elisseeff is a Morton Goldberg Professor of Ophthalmology and directs the recently established [Translational Tissue Engineering Center](http://web1.johnshopkins.edu/ttec/) at Johns Hopkins University in collaboration with Biomedical Engineering. Learn more about our research at the [Elisseeff Lab website](https://elisseefflab.jhu.edu/).
+Dr. Jennifer Elisseeff is a Morton Goldberg Professor of Ophthalmology and directs the recently established [Translational Tissue Engineering Center](https://ttec.johnshopkins.edu/) at Johns Hopkins University in collaboration with Biomedical Engineering. Learn more about our research at the [Elisseeff Lab website](https://elisseefflab.jhu.edu/).
 
 
 #### Repositories
