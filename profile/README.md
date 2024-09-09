@@ -10,7 +10,7 @@ Dr. Jennifer Elisseeff is a Morton Goldberg Professor of Ophthalmology and direc
 Our github organization hosts repositories for packages and papers that have been published or are publicly available. Currently, our projects include:
 
 - [domino](https://github.com/Elisseeff-Lab/domino), a package for cell-cell communication inference from single cell RNA sequencing data (published [here](https://doi.org/10.1038%2Fs41551-021-00770-5))
-- [domino2](https://fertiglab.github.io/domino2/), an updated version of domino, is being developed in conjunction with the [Fertig Lab](https://github.com/FertigLab)
+- [dominoSignal](https://fertiglab.github.io/dominoSignal/), an updated version of domino, is being developed in conjunction with the [Fertig Lab](https://github.com/FertigLab).
 
  
  #### Contact
