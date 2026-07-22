@@ -15,4 +15,4 @@ Our github organization hosts repositories for packages and papers that have bee
  
  #### Contact
  
-Please [contact us](mailto:kkrishnan@jhmi.edu) if you need anything associated with this github organization.
+Please [contact us](mailto:jhe@jhu.edu) if you need anything associated with this github organization.
